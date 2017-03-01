@@ -9,7 +9,7 @@ It is built on the LAMP stack using the MINI framework.
 ## Development Team Members:
 + Juris Puchin
 + Izaac Garcilazo
-+ Alexandra Piryatinska
++ Alexander Brown
 + Mark Garde
 + Abullah Arikat
 + Sang Saephan
