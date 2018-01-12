@@ -6,6 +6,8 @@ It is a website that allows useres (students) to sell and buy items as well as o
 
 It is built on the LAMP stack using the MINI framework.
 
+As of 11Jan2018, this code is hosted on: http://booksandtutorssfsu.herokuapp.com/
+
 ## Development Team Members:
 + Juris Puchin
 + Izaac Garcilazo
